@@ -11,6 +11,7 @@
 Semua endpoint API (kecuali login & register) membutuhkan token otorisasi.
 
 Sertakan header berikut di setiap request:
+Authorization | Bearer <token>
 
 
 ---
